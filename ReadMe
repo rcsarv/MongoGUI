@@ -1,8 +1,12 @@
 This is MongoGUI with advance features
+
+
+Upcomming Features
     Visual Query Builder
     Shard Manager
     Docker Mnager
     Auto Scale
+    Desktop, Web & Mobile Edition
     In-Place Data Editing
     Table, Tree & JSON View
     IntelliShell
