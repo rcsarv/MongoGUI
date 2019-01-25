@@ -1,0 +1,26 @@
+This is MongoGUI with advance features
+    Visual Query Builder
+    Shard Manager
+    Docker Mnager
+    Auto Scale
+    In-Place Data Editing
+    Table, Tree & JSON View
+    IntelliShell
+    Aggregation Editor
+    Query CodePRO
+    SQL QueryPRO
+    SQL Import/ExportPRO
+    LDAP & Kerberos AuthenticationENT
+    Import from OracleENT
+    Enterprise InstallerENT
+    Enterprise License ManagementENT
+    Import / Export Wizard
+    Color-Coded Connections
+    Read-Only Lock
+    Data Compare & SyncPRO
+    Schema ExplorerPRO
+    Server Status Charts
+    Map-Reduce
+    GridFS Support
+    HotKeys
+    MongoDB 4.0 Compatibility
